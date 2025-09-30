@@ -13,9 +13,8 @@ metadata:
     argocd/app-selector: tssc/gitops=go-vodcotqo
     backstage.io/kubernetes-id: go-vodcotqo 
     backstage.io/techdocs-ref: dir:.
-    dev.azure.com/host-org: dev.azure.com/rhtap-test-org
-    dev.azure.com/project-repo: rhtap-test-org/go-vodcotqo
-    dev.azure.com/build-definition: rhtap-test-org.go-vodcotqo
+    dev.azure.com/project: shared-public
+    dev.azure.com/build-definition: go-vodcotqo
     quay.io/repository-slug: tsscui/go-vodcotqo
   tags: ["go", "sscs", "sbom", "acs"] 
 spec:
